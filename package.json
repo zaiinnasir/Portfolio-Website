@@ -1,0 +1,16 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "A static portfolio website",
+    "main": "index.html",
+    "scripts": {
+      "start": "echo 'Start the server here if needed'"
+    },
+    "keywords": [
+      "portfolio",
+      "website"
+    ],
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  
