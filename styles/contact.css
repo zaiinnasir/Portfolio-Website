@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  header {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    font-size: 18px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
