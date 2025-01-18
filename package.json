@@ -4,13 +4,16 @@
     "description": "A static portfolio website",
     "main": "index.html",
     "scripts": {
-      "start": "echo 'Start the server here if needed'"
+        "start": "echo 'Start the server here if needed'"
     },
     "keywords": [
-      "portfolio",
-      "website"
+        "portfolio",
+        "website"
     ],
     "author": "Your Name",
-    "license": "ISC"
-  }
-  
+    "license": "ISC",
+    "devDependencies": {
+        "stylelint": "^16.13.2",
+        "stylelint-config-standard": "^37.0.0"
+    }
+}
