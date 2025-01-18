@@ -14,15 +14,7 @@ body {
   h1 {
     font-size: 36px;
   }
-  
-  form {
-    width: 300px;
-    margin: 0 auto;
-  }
-  
-  label {
-    font-size: 18px;
-  }
+
   
   input, textarea {
     width: 100%;
